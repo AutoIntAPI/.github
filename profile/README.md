@@ -1,4 +1,4 @@
-# API Change Impact and Auto-Fix Platform
+# API Change Impact and Auto-Fix Platform (AutoInt)
 
 ## What this platform does
 
